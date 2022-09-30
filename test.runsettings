@@ -1,0 +1,9 @@
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="TargetEnvironment" value="Spoonacular"/>
+		<Parameter name="Client" value="https://api.spoonacular.com"/>
+
+		<!--Please read https://spoonacular.com/food-api/docs#Authentication to obtain a key or contact akletchka on GitHub for demo of functionality-->
+		<Parameter name="ApiKey" value=""/>
+	</TestRunParameters>
+</RunSettings>
