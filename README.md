@@ -5,10 +5,10 @@ Follows standard NUnit flow starting in the [TestSetup](https://github.com/aklet
 API under test: [spoonacular API](https://spoonacular.com/food-api)
 
 ## ⚗️Technologies used
--[Microsoft.NET.Test.SDK](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-test): Test host
--[NUnit](https://nunit.org/): Test framework
--[RestSharp](https://restsharp.dev/): REST Api client library
--[FluentAssertions](https://fluentassertions.com/): Extension methods for assertions
+- [Microsoft.NET.Test.SDK](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-test): Test host
+- [NUnit](https://nunit.org/): Test framework
+- [RestSharp](https://restsharp.dev/): REST Api client library
+- [FluentAssertions](https://fluentassertions.com/): Extension methods for assertions
 
 
 ## 👟Running the tests
